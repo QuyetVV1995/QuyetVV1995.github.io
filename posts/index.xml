@@ -10,21 +10,24 @@
         <atom:link href="https://QuyetVV1995.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>IT1</title>
-            <link>https://QuyetVV1995.github.io/posts/2020/10/it1/</link>
+            <title>分析と設計</title>
+            <link>https://QuyetVV1995.github.io/posts/2020/10/%E5%88%86%E6%9E%90%E3%81%A8%E8%A8%AD%E8%A8%88/</link>
             <pubDate>Fri, 30 Oct 2020 19:19:15 +0700</pubDate>
             
-            <guid>https://QuyetVV1995.github.io/posts/2020/10/it1/</guid>
-            <description>分析と設計 では、システムの設計図は、どのような手順で作成すれば良いのでしょうか。その作業は、大きく「分析」と「設計」の２つの段階に分けることができます。 Trong bản thiết kế hệ thống thì nếu làm theo quy trình nào thì tốt? Có thể chia tác vụ đó là làm 2 giai đoạn lớn là phân tích và thiết kế. 分析とは、システム開発を依頼した顧客がシステムに求(もと)める機能や性能を、これから開発するシステムの要件(ようけん)として矛盾なく整理することを意味します。顧客から要望を聞き出したり、現在の業務流(ぎょうむなが)れを調べたりして得られた情報を解析し、顧客のニーズに合致したシステムの姿を明らかにします。すなわち、何を作るのか明らかにする作業が分析です。 Phân tích có nghĩa là sắp xếp không tạo ra mâu thuẫn giữa những chức năng và tính năng mà khách hàng nhờ phát triển hệ thống trong hệ thống, dựa trên điều kiện phát triển hệ thống sau này.</description>
-            <content type="html"><![CDATA[<p>分析と設計
-では、システムの設計図は、どのような手順で作成すれば良いのでしょうか。その作業は、大きく「分析」と「設計」の２つの段階に分けることができます。
+            <guid>https://QuyetVV1995.github.io/posts/2020/10/%E5%88%86%E6%9E%90%E3%81%A8%E8%A8%AD%E8%A8%88/</guid>
+            <description>分析と設計 Phân tích và thiết kế では、システムの設計図は、どのような手順で作成すれば良いのでしょうか。その作業は、大きく「分析」と「設計」の２つの段階に分けることができます。
 Trong bản thiết kế hệ thống thì nếu làm theo quy trình nào thì tốt? Có thể chia tác vụ đó là làm 2 giai đoạn lớn là phân tích và thiết kế.
 分析とは、システム開発を依頼した顧客がシステムに求(もと)める機能や性能を、これから開発するシステムの要件(ようけん)として矛盾なく整理することを意味します。顧客から要望を聞き出したり、現在の業務流(ぎょうむなが)れを調べたりして得られた情報を解析し、顧客のニーズに合致したシステムの姿を明らかにします。すなわち、何を作るのか明らかにする作業が分析です。
-Phân tích có nghĩa là sắp xếp không tạo ra mâu thuẫn giữa những chức năng và tính năng mà khách hàng nhờ phát triển hệ thống trong hệ thống, dựa trên điều kiện phát triển hệ thống sau này. Phân tích những thông tin có được từ việc vừa hỏi những nguyện vọng của khách hàng vừa nghiên cứu dòng nghiệp vụ hiện tại. Từ đó làm sáng tỏ hình dạng của hệ thống phù hợp với nhu cầu của khách hàng. Tóm lại là, phân tích là làm rõ nghiệp vụ cần phải làm.
-一方の設計とは、分析により明らかになったシステムの要件を、どのような形でプログラムにしていくか、決定することを意味します。例えば、住宅に高い機密性を求めるならば、木造よりも鉄筋コンクリートが適しているように、システムの場合にも、求められる要件によって適切な作りがあります。その作りかたを決定し、プログラミングを始めることができる設計図を作り上げます。すなわち、どのように作るのかを明らかにする作業が設計です。
-Thiết kế có nghĩa là quyết định các điều kiện cần thiết của hệ thống đã được làm sáng tỏ bằng phân tích để quyết định chương trình theo hình thức như thế nào. Ví dụ, ngôi nhà yêu cầu độ kín gió cao, thì bê tông cốt thép sẽ phù hợp hơn chất liệu làm từ gỗ, trường hợp chương trình cũng vậy, đối với các điều kiện cần thiết được yêu câu thì có cách làm phù hợp. Sau khi quyết định cách làm thì bắt đầu tạo bản thiết kế lập trình. Nói cách khác, thiết kế là nhiệm vụ làm rõ cách tạo ra nó.
-システム開発では、分析と設計のどちらか一方が不足しても、顧客が満足するシステムを作ることはできません。分析と設計を車の両輪と考え、それぞれを十分に行った後に、プログラミングを始めることが肝要です。
-Trong phát triển hệ thống, thiếu phân tích hoặc thiết kế thì hệ thống sẽ không thể hài lòng khách hàng. Hãy suy nghĩ phân tích và thiết kế như là 2 bánh xe của ô tô, sau khi đã làm đầy đủ mỗi thứ, việc bắt đầu lập trình là thiết yếu.</p>
+Phân tích có nghĩa là sắp xếp không tạo ra mâu thuẫn giữa những chức năng và tính năng mà khách hàng nhờ phát triển hệ thống trong hệ thống, dựa trên điều kiện phát triển hệ thống sau này.</description>
+            <content type="html"><![CDATA[<p>分析と設計  Phân tích và thiết kế
+では、システムの設計図は、どのような手順で作成すれば良いのでしょうか。その作業は、大きく「分析」と「設計」の２つの段階に分けることができます。</p>
+<p>Trong bản thiết kế hệ thống thì nếu làm theo quy trình nào thì tốt? Có thể chia tác vụ đó là làm 2 giai đoạn lớn là phân tích và thiết kế.</p>
+<p>分析とは、システム開発を依頼した顧客がシステムに求(もと)める機能や性能を、これから開発するシステムの要件(ようけん)として矛盾なく整理することを意味します。顧客から要望を聞き出したり、現在の業務流(ぎょうむなが)れを調べたりして得られた情報を解析し、顧客のニーズに合致したシステムの姿を明らかにします。すなわち、何を作るのか明らかにする作業が分析です。</p>
+<p>Phân tích có nghĩa là sắp xếp không tạo ra mâu thuẫn giữa những chức năng và tính năng mà khách hàng nhờ phát triển hệ thống trong hệ thống, dựa trên điều kiện phát triển hệ thống sau này. Phân tích những thông tin có được từ việc vừa hỏi những nguyện vọng của khách hàng vừa nghiên cứu dòng nghiệp vụ hiện tại. Từ đó làm sáng tỏ hình dạng của hệ thống phù hợp với nhu cầu của khách hàng. Tóm lại là, phân tích là làm rõ nghiệp vụ cần phải làm.</p>
+<p>一方の設計とは、分析により明らかになったシステムの要件を、どのような形でプログラムにしていくか、決定することを意味します。例えば、住宅に高い機密性を求めるならば、木造よりも鉄筋コンクリートが適しているように、システムの場合にも、求められる要件によって適切な作りがあります。その作りかたを決定し、プログラミングを始めることができる設計図を作り上げます。すなわち、どのように作るのかを明らかにする作業が設計です。</p>
+<p>Thiết kế có nghĩa là quyết định các điều kiện cần thiết của hệ thống đã được làm sáng tỏ bằng phân tích để quyết định chương trình theo hình thức như thế nào. Ví dụ, ngôi nhà yêu cầu độ kín gió cao, thì bê tông cốt thép sẽ phù hợp hơn chất liệu làm từ gỗ, trường hợp chương trình cũng vậy, đối với các điều kiện cần thiết được yêu câu thì có cách làm phù hợp. Sau khi quyết định cách làm thì bắt đầu tạo bản thiết kế lập trình. Nói cách khác, thiết kế là nhiệm vụ làm rõ cách tạo ra nó.</p>
+<p>システム開発では、分析と設計のどちらか一方が不足しても、顧客が満足するシステムを作ることはできません。分析と設計を車の両輪と考え、それぞれを十分に行った後に、プログラミングを始めることが肝要です。</p>
+<p>Trong phát triển hệ thống, thiếu phân tích hoặc thiết kế thì hệ thống sẽ không thể hài lòng khách hàng. Hãy suy nghĩ phân tích và thiết kế như là 2 bánh xe của ô tô, sau khi đã làm đầy đủ mỗi thứ, việc bắt đầu lập trình là thiết yếu.</p>
 ]]></content>
         </item>
         
